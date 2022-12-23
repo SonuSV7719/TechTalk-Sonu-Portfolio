@@ -17,9 +17,9 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-        <a href="https://youtube.com/@techtalksonu"><GrYoutube/></a>
-        <a href="https://www.instagram.com/techtalk_sonu/"><BsInstagram/></a>
-        <a href="https://www.linkedin.com/in/sonusv/"><BsLinkedin/></a>
+        <a href="https://youtube.com/@techtalksonu" target="_blank" rel="noreferrer"><GrYoutube/></a>
+        <a href="https://www.instagram.com/techtalk_sonu/" target="_blank" rel="noreferrer"><BsInstagram/></a>
+        <a href="https://www.linkedin.com/in/sonusv/" target="_blank" rel="noreferrer"><BsLinkedin/></a>
         <a href="https://github.com/SonuSV7719" target= "_blank" rel="noreferrer"><IoLogoGithub/></a>
       </div>
 
