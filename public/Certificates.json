@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Certified React Developer",
+        "issuer": "React Training",
+        "date": "January 2023",
+        "description": "A comprehensive certification covering advanced React concepts and best practices."
+    },
+    {
+        "title": "AWS Certified Solutions Architect",
+        "issuer": "Amazon Web Services",
+        "date": "March 2024",
+        "description": "Certification demonstrating expertise in designing and deploying scalable systems on AWS."
+    }
+]
